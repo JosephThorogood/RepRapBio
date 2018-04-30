@@ -1,0 +1,2 @@
+# RepRapBio
+3D printing is a fast-emerging field, with hundreds of design variants, however there is a gap in specialized machines for biological application. This is a gap that this project aims to fill. 3D BioPrinters, once a fabled dream, are fast becoming reality, however the accessibility of these machines leaves a lot to be desired, previously available only to large biotech companies and universities, this project hopes to give further education institutes the facility to explore this exciting area of biotechnology. 
